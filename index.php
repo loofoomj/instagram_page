@@ -8,7 +8,7 @@ if (!$loggedin) {
 
 $mysql_hostname = 'localhost';
 $mysql_username = 'root';
-$mysql_password = 'whtpehd6298!';
+$mysql_password = '*********';
 $mysql_database = 'instagram';
 $mysql_port = '3306';
 $mysql_charset = 'utf8';
